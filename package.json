@@ -1,0 +1,11 @@
+{
+  "name": "browsercard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "vercel": "^39.2.2"
+  },
+  "dependencies": {
+    "browsercard": "file:"
+  }
+}
